@@ -128,7 +128,7 @@ Use placeholders before uploading to GitHub.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Gagan K**
 
 ---
 
